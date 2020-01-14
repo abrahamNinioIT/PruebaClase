@@ -7,7 +7,7 @@ public class Prueba1 {
 		System.out.println("Prueba cambio para GIT");
 		System.out.println("Prueba cambio para GIT");
 
-		System.out.println("Que te pires GIT");
+		System.out.println("Que te pires GI´´´´´´T");
 /**
 ewfgwefgweg */
 	}
